@@ -1,4 +1,5 @@
 Getting and Cleaning Data Course Project
+
 The finished product of this assignment was saved into two separate text format files which are delimited in tabs:
 
 tidydata-activity.txt tidydata-subject.txt
@@ -6,6 +7,7 @@ tidydata-activity.txt tidydata-subject.txt
 This tidy data set contains averages and standard deviations of various test measures put together separately by activity and subject.
 
 How to use the script(run_analysis.R):
+
 Source the script in R console: >source("run_analysis.R")
 Run the command : > run_analysis()
 Resulting tidy data files will be saved in your working directory as "tidydata-activity.txt" and "tidydata-subject.txt"

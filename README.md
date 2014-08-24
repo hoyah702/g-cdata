@@ -44,6 +44,7 @@ The dataset was constructed by:
 
 
 The script(run_analysis.R) which automatically creates the dataset does the following:
+
 1. Reads all the files used in the analysis(see above)
 2. 'cbind' 'X_train','y_train' and 'subject_train'
 3. 'cbind' 'X_test','y_test' and 'subject_test'

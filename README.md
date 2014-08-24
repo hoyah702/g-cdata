@@ -30,9 +30,8 @@ The dataset was constructed by:
  - 'train/y_train.txt': Training labels.
  - 'test/X_test.txt': Test set.
  - 'test/y_test.txt': Test labels.
- - 'train/subject_train.txt': Each row identifies the subject who performed the activity for each window sample. Its   range is from 1 to 30.
- - 'train/subject_test.txt : Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30.
-
+ - 'train/subject_train.txt': Each row identifies the subject who performed the activity for each window sample. Its        range is from 1 to 30.
+ - 'train/subject_test.txt : Each row identifies the subject who performed the activity for each window sample. Its         range is from 1 to 30.
 3. Following data files were NOT used:
 
  - 'train/Inertial Signals/total_acc_x_train.txt'
